@@ -36,5 +36,5 @@ Computer Science student focused on practical Python, data analytics, machine le
 
 - GitHub: [Mo-reece](https://github.com/Mo-reece)
 - LinkedIn: [maurice-leonard-okurut](https://www.linkedin.com/in/maurice-leonard-okurut)
-- Portfolio: [okurut-maurice.com](https://okurut-maurice.com/)
+- Portfolio repository: [moreece-portfolio](https://github.com/Mo-reece/moreece-portfolio)
 - Email: okurutmauriceleonard@gmail.com
