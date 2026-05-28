@@ -1,45 +1,40 @@
-# Moreece
+# Maurice Leonard Okurut
 
-Data scientist and algorithmic trader based in Kampala, Uganda. I build ML models and automated trading systems — from commodity price forecasting to prop firm EAs. BSc Computer Science, ISBAT University (2025).
+Computer Science student focused on practical Python, data analytics, machine learning, and web development projects. I use GitHub to document complete, reproducible work: clear problem statements, clean notebooks, runnable code, results, and next-step engineering improvements.
 
----
+## Current Focus
 
-**Languages & Tools**
+- Building portfolio-ready data science and ML projects with strong documentation.
+- Turning analysis notebooks into reusable tools, dashboards, and deployed demos.
+- Improving software engineering habits: tests, CI, packaging, and reproducible setup.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MQL5](https://img.shields.io/badge/MQL5-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+## Featured Portfolio Projects
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189A44?style=flat&logo=python&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-4B8BBE?style=flat&logo=python&logoColor=white)
+| Project | Role signal | What it demonstrates |
+|---|---|---|
+| [Pneumonia Detection](https://github.com/Mo-reece/Pneumonia-detection) | ML / AI intern | Transfer learning, TensorFlow, medical image classification, Grad-CAM interpretability |
+| [Data Quality Assessment Tool](https://github.com/Mo-reece/Data-Quality-Assessment-Tool) | Software / data engineering | Modular Python package, CLI workflow, automated data validation, HTML reporting |
+| [Customer Churn Prediction](https://github.com/Mo-reece/Churn-Prediction) | Data science / business ML | Feature engineering, classification, ROC-AUC evaluation, explainability, stakeholder dashboard |
+| [Healthcare Cost Analysis](https://github.com/Mo-reece/healthcare-cost-analysis) | Data analyst | EDA, statistical testing, visualization, business recommendations |
+| [Stock Market Visualizer](https://github.com/Mo-reece/stock-market-visualizer) | Data visualization | yfinance data collection, Plotly dashboards, financial trend analysis |
+| [Portfolio Website](https://github.com/Mo-reece/moreece-portfolio) | Web / frontend | Responsive personal portfolio, project presentation, recruiter-facing web presence |
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+## Technical Stack
 
----
+**Languages:** Python, SQL, JavaScript, HTML, CSS  
+**Data and ML:** pandas, NumPy, scikit-learn, TensorFlow, XGBoost, LightGBM, CatBoost, SHAP  
+**Visualization:** Matplotlib, Seaborn, Plotly, Streamlit  
+**Engineering:** Git, GitHub Actions, command-line tools, reproducible project setup
 
-**Pinned Work**
+## What Recruiters Should Look For
 
-| Project | What it does |
-|---|---|
-| [Churn-Prediction](https://github.com/Mo-reece/Churn-Prediction) | Telecom churn classifier with SHAP explainability |
-| [healthcare-cost-analysis](https://github.com/Mo-reece/healthcare-cost-analysis) | Insurance cost modeling and EDA |
-| [House-Price-Prediction](https://github.com/Mo-reece/House-Price-Prediction) | Regression pipeline with feature engineering |
-| [Pneumonia-detection](https://github.com/Mo-reece/Pneumonia-detection) | CNN + Grad-CAM for chest X-ray classification |
-| [stock-market-visualizer](https://github.com/Mo-reece/stock-market-visualizer) | Interactive market data dashboard |
-| [Data-Quality-Assessment-Tool](https://github.com/Mo-reece/Data-Quality-Assessment-Tool) | Automated dataset profiling and reporting |
+- End-to-end project thinking: problem, data, method, results, limitations, and future work.
+- Practical business framing in analytics and ML projects.
+- Evidence of improving engineering maturity through tests, CI, package structure, and documentation.
 
----
+## Contact
 
-**Connect**
-
-[GitHub](https://github.com/Mo-reece) · [Instagram](https://instagram.com/_vault.tech_) · [WhatsApp](https://wa.me/256742392606)
-
----
-
-*Building from Kampala, Uganda.*
+- GitHub: [Mo-reece](https://github.com/Mo-reece)
+- LinkedIn: [maurice-leonard-okurut](https://www.linkedin.com/in/maurice-leonard-okurut)
+- Portfolio repository: [moreece-portfolio](https://github.com/Mo-reece/moreece-portfolio)
+- Email: okurutmauriceleonard@gmail.com
